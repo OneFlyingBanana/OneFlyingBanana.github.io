@@ -52,7 +52,7 @@ Now that you've created your repository on GitHub, it's time to clone it to your
 ![CloneRepository](/assets/screnshots/CloneRepository.png)
 
 Once you have your link, open a GitBash command prompt and type in:
-```GitBash
+```sh
 git clone yourrepositorylinkhere
 ```
 
