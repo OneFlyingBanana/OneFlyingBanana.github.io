@@ -1,7 +1,7 @@
 ---
 title: Jekyll + GitHub Pages Tutorial
 date: 2022-10-01 17:58:00 +0100
-categories: [tutorial]
+categories: [tutorial, jean-pierre]
 tags: [github, jekyll]
 ---
 
